@@ -25482,7 +25482,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1546584871697591083, guid: ad9768253a03b6f4ba2e32e83d912fd2, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1546584871697591088, guid: ad9768253a03b6f4ba2e32e83d912fd2, type: 3}
       propertyPath: m_RootOrder
@@ -25584,10 +25584,6 @@ PrefabInstance:
     - target: {fileID: 1685957536475129358, guid: c0bd167b89d90414ea677fe9a23981ca, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6911927466490497038, guid: c0bd167b89d90414ea677fe9a23981ca, type: 3}
-      propertyPath: m_IsTrigger
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0bd167b89d90414ea677fe9a23981ca, type: 3}
@@ -25702,6 +25698,10 @@ PrefabInstance:
     - target: {fileID: 8816466425585352059, guid: 1ca87ecb869e7ff41ac78da0792f9795, type: 3}
       propertyPath: m_Name
       value: EnnemyCac
+      objectReference: {fileID: 0}
+    - target: {fileID: 8816466425585352059, guid: 1ca87ecb869e7ff41ac78da0792f9795, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ca87ecb869e7ff41ac78da0792f9795, type: 3}
