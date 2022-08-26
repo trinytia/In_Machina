@@ -12,6 +12,7 @@ TagManager:
   - BarryEnviroMech
   - RuneCircle
   - MagicGate
+  - EnnemySpawner
   layers:
   - Default
   - TransparentFX
