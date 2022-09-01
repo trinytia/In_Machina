@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MistyWoods.unity
     guid: 800c78b8a787e0847bc24d09f2c708bb
   - enabled: 1
-    path: Assets/Scenes/MistyWoodsColliders.unity
+    path: Assets/Scenes/MistyWoodsLFS.unity
     guid: ccc9c5ee56b700b4c890497b56ff3159
   m_configObjects: {}
