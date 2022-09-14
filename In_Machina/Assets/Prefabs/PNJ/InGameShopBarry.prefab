@@ -15,11 +15,11 @@ GameObject:
   - component: {fileID: 808248462055384662}
   m_Layer: 0
   m_Name: InGameShopBarry
-  m_TagString: Untagged
+  m_TagString: BarryEnviroMech
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6556376425957202188
 Transform:
   m_ObjectHideFlags: 0

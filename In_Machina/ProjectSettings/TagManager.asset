@@ -13,6 +13,8 @@ TagManager:
   - RuneCircle
   - MagicGate
   - EnnemySpawner
+  - FireStreak
+  - Button
   layers:
   - Default
   - TransparentFX
