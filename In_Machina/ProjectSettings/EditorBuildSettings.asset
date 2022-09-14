@@ -21,9 +21,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Canvas/NPCsCanvas/FirstDeathDialogue.unity
     guid: c58e4621e233a8d46aee9f7e19560e5a
   - enabled: 1
-    path: Assets/Scenes/Canvas/NPCsCanvas/BarryLynDialogue.unity
-    guid: 21dcd7a71c55a7f42b79fcaa6578f649
-  - enabled: 1
     path: Assets/Scenes/Canvas/EMCanvas/MagicFountainPopUp.unity
     guid: 5513bebdb1054c54aacf3bc690940547
   - enabled: 1
@@ -35,4 +32,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Canvas/GUICanvas/LevelUpPopUp.unity
     guid: f19c8638ae26c264388ce823fb800054
+  - enabled: 1
+    path: Assets/Scenes/Canvas/NPCsCanvas/LynFound.unity
+    guid: dd5cb770fb6299d4ab719c376e3f9056
+  - enabled: 1
+    path: Assets/Scenes/Canvas/NPCsCanvas/WierdBarryDialogue.unity
+    guid: 9d87fc0bff1db164fbe00a518e3d9c2b
+  - enabled: 1
+    path: Assets/Scenes/Canvas/NPCsCanvas/InShopBarryDialogue.unity
+    guid: 8077cfd283336c74ead34cecb81fb1e0
+  - enabled: 1
+    path: Assets/Scenes/Canvas/GUICanvas/InGameUI.unity
+    guid: e65e60b964bbdc34ca121247ec9205fc
+  - enabled: 1
+    path: Assets/Scenes/Canvas/NPCsCanvas/HubShopBarryDialogue.unity
+    guid: 20ddad035bc887b408717d90143df170
+  - enabled: 1
+    path: Assets/Scenes/Canvas/EMCanvas/KyberWeaponPopUp.unity
+    guid: 9e6e8fff47301a9458af91f5c49b9f01
+  - enabled: 1
+    path: Assets/Scenes/Canvas/EMCanvas/KyberSkillPopUp.unity
+    guid: 8ce5818e3f3390b4985a6178811c3ca3
   m_configObjects: {}
