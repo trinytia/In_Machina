@@ -18,6 +18,15 @@ EditorBuildSettings:
     path: Assets/Scenes/MistyWoodsLFS2.unity
     guid: b8925bf0a1dba7046be5447ec9ac00dd
   - enabled: 1
+    path: Assets/Scenes/Canvas/Intro.unity
+    guid: 959376a16a9e28244a30a7a4a4458582
+  - enabled: 1
+    path: Assets/Scenes/Canvas/TransitionFromHubToMistyWoods.unity
+    guid: 1fe3aa5abe972fe49830a54700074f41
+  - enabled: 1
+    path: Assets/Scenes/Canvas/TransitionFromMistyWoodsToHub.unity
+    guid: 387e07c64e0373541a6fab98f330b56c
+  - enabled: 1
     path: Assets/Scenes/Canvas/NPCsCanvas/FirstDeathDialogue.unity
     guid: c58e4621e233a8d46aee9f7e19560e5a
   - enabled: 1
