@@ -48,7 +48,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Canvas/NPCsCanvas/WierdBarryDialogue.unity
     guid: 9d87fc0bff1db164fbe00a518e3d9c2b
   - enabled: 1
-    path: Assets/Scenes/Canvas/NPCsCanvas/InShopBarryDialogue.unity
+    path: Assets/Scenes/Canvas/NPCsCanvas/InGameShopBarryDialogue.unity
     guid: 8077cfd283336c74ead34cecb81fb1e0
   - enabled: 1
     path: Assets/Scenes/Canvas/GUICanvas/InGameUI.unity
