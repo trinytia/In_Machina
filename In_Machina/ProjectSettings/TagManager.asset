@@ -15,6 +15,7 @@ TagManager:
   - EnnemySpawner
   - FireStreak
   - Button
+  - Spell
   layers:
   - Default
   - TransparentFX
