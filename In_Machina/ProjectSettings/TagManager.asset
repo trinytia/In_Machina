@@ -16,6 +16,7 @@ TagManager:
   - FireStreak
   - Button
   - Spell
+  - UIInGame
   layers:
   - Default
   - TransparentFX
