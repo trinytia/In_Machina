@@ -17,6 +17,7 @@ TagManager:
   - Button
   - Spell
   - UIInGame
+  - Weapon
   layers:
   - Default
   - TransparentFX
@@ -26,7 +27,7 @@ TagManager:
   - UI
   - Player
   - Ennemy
-  - 
+  - Weapon
   - 
   - 
   - 
@@ -56,4 +57,7 @@ TagManager:
     locked: 0
   - name: Environement
     uniqueID: 2265544795
+    locked: 0
+  - name: Weapon
+    uniqueID: 346683441
     locked: 0
