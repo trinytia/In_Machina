@@ -259,6 +259,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 758993010281301514, guid: 218108215fdbfce45ac3bcac4b035cb2, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 712.1
+      objectReference: {fileID: 0}
     - target: {fileID: 758993010713445097, guid: 218108215fdbfce45ac3bcac4b035cb2, type: 3}
       propertyPath: m_TagString
       value: Spell

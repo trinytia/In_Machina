@@ -403,7 +403,25 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"Canvas","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"MainCamera","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ListOfAdvice","value":{"$content":["Advice1","Advice2","Advice3","Advice4","Advice5","Advice6","Advice7","Advice8","Advice9","Advice10","Advice11","Advice12","Advice13","Advice14","Advice15"],"$type":"System.Collections.Generic.List`1[[System.String,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ListOfAdvice","value":{"$content":["This
+      dead tree is a testament to times/ our gluttonous behavior, read between the
+      lines.","We are all brothers here. Are you ?","Keep an eye on your pockets
+      when you fall or I will do it for you. :)","The girl\u2026 She\u2019s sick\u2026
+      Fix\u2026 I can fix it\u2026 Her.","I HAVE NO IDEA WHERE I\u2019M GOING, HA
+      !","He always took care\u2026 Care of me\u2026 Why am I like this ?","You step
+      on me, you get rich. They step on me, you perish. Who am I ?","Gotta catch\u2019em
+      all !","You feeling OK? Do you like it so far? If you need to rest we can stop
+      here for today. ","I know you\u2019re not able to see me, I can still feel
+      you judging.","Once upon a time, an enormous bird crashed on this very land
+      and left an undying mark on these woods.","01001001 00111100 00110011 01010101","Don''t
+      you ever buy the key ! Ever.","I\u2019ve tried everything to save her. Everything
+      but her heart\u2026 Even if she could take it, I know I can\u2019t.","I heard
+      that massive amounts of gold are hidden deep in this forest. I doubt you stranger
+      need it more than we do.","I\u2019m sure you can make it. It\u2019s only your
+      [DeathCount] try. :)","I\u2019m so happy  we could continue to play like this
+      over the years. It\u2019s been difficult but your imagination was always bigger
+      than mine. Still, I do hope my story pleases you Lyn.","Mistakes are always
+      forgivable, if one has the courage to admit them. Sorry."],"$type":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
