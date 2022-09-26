@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 10973127}
   m_Layer: 5
   m_Name: HeartBurst
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -799,7 +799,7 @@ GameObject:
   - component: {fileID: 79561814}
   m_Layer: 5
   m_Name: PressureAura
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1191,7 +1191,7 @@ GameObject:
   - component: {fileID: 147372739}
   m_Layer: 5
   m_Name: PsionicCrown
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1313,7 +1313,7 @@ GameObject:
   - component: {fileID: 158077385}
   m_Layer: 5
   m_Name: Divine Shield
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1705,7 +1705,7 @@ GameObject:
   - component: {fileID: 338937050}
   m_Layer: 5
   m_Name: Phasing
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1827,7 +1827,7 @@ GameObject:
   - component: {fileID: 343095320}
   m_Layer: 5
   m_Name: MetalClaws
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2354,7 +2354,7 @@ GameObject:
   - component: {fileID: 520201073}
   m_Layer: 5
   m_Name: Heart of Gold
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2476,7 +2476,7 @@ GameObject:
   - component: {fileID: 538562763}
   m_Layer: 5
   m_Name: POW
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2598,7 +2598,7 @@ GameObject:
   - component: {fileID: 566833169}
   m_Layer: 5
   m_Name: Second Breath
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2720,7 +2720,7 @@ GameObject:
   - component: {fileID: 575575360}
   m_Layer: 5
   m_Name: MidasBlow
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2842,7 +2842,7 @@ GameObject:
   - component: {fileID: 596462402}
   m_Layer: 5
   m_Name: Shuriken
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2964,7 +2964,7 @@ GameObject:
   - component: {fileID: 598389097}
   m_Layer: 5
   m_Name: OilyBottle
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3356,7 +3356,7 @@ GameObject:
   - component: {fileID: 700711756}
   m_Layer: 5
   m_Name: MoonSplinter
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3478,7 +3478,7 @@ GameObject:
   - component: {fileID: 742488443}
   m_Layer: 5
   m_Name: TimeCloak
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3703,7 +3703,7 @@ GameObject:
   - component: {fileID: 780040964}
   m_Layer: 5
   m_Name: Might
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4095,7 +4095,7 @@ GameObject:
   - component: {fileID: 819323561}
   m_Layer: 5
   m_Name: Confiance
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4217,7 +4217,7 @@ GameObject:
   - component: {fileID: 823943666}
   m_Layer: 5
   m_Name: SHD
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4339,7 +4339,7 @@ GameObject:
   - component: {fileID: 842372411}
   m_Layer: 5
   m_Name: Multiply
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4461,7 +4461,7 @@ GameObject:
   - component: {fileID: 844027999}
   m_Layer: 5
   m_Name: ButtonWP
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4583,7 +4583,7 @@ GameObject:
   - component: {fileID: 845952444}
   m_Layer: 5
   m_Name: SPD
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5111,7 +5111,7 @@ GameObject:
   - component: {fileID: 860070764}
   m_Layer: 5
   m_Name: Dark Spread
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5435,7 +5435,7 @@ GameObject:
   - component: {fileID: 932043716}
   m_Layer: 5
   m_Name: ButtonSkill
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5557,7 +5557,7 @@ GameObject:
   - component: {fileID: 966597724}
   m_Layer: 5
   m_Name: RedStreak
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5679,7 +5679,7 @@ GameObject:
   - component: {fileID: 966617648}
   m_Layer: 5
   m_Name: SwordOfDest
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5801,7 +5801,7 @@ GameObject:
   - component: {fileID: 968675637}
   m_Layer: 5
   m_Name: StratThinking
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6162,7 +6162,7 @@ GameObject:
   - component: {fileID: 977433614}
   m_Layer: 5
   m_Name: DEX
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6284,7 +6284,7 @@ GameObject:
   - component: {fileID: 999275537}
   m_Layer: 5
   m_Name: CON
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6541,7 +6541,7 @@ GameObject:
   - component: {fileID: 1052886500}
   m_Layer: 5
   m_Name: LCK
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6956,7 +6956,7 @@ GameObject:
   - component: {fileID: 1288853405}
   m_Layer: 5
   m_Name: Heart Beat
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7964,7 +7964,7 @@ GameObject:
   - component: {fileID: 1590206207}
   m_Layer: 5
   m_Name: FireBreath
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8086,7 +8086,7 @@ GameObject:
   - component: {fileID: 1592007377}
   m_Layer: 5
   m_Name: GoldSkin
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8478,7 +8478,7 @@ GameObject:
   - component: {fileID: 1625156683}
   m_Layer: 5
   m_Name: Bullseye
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8870,7 +8870,7 @@ GameObject:
   - component: {fileID: 1745016514}
   m_Layer: 5
   m_Name: Zepmines
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9127,7 +9127,7 @@ GameObject:
   - component: {fileID: 1781792118}
   m_Layer: 5
   m_Name: ButtonStat
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9384,7 +9384,7 @@ GameObject:
   - component: {fileID: 1877797710}
   m_Layer: 5
   m_Name: HP
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9912,7 +9912,7 @@ GameObject:
   - component: {fileID: 1934109498}
   m_Layer: 5
   m_Name: LaserSnipes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
