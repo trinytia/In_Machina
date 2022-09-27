@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: ShurikenLvlUp
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[{"hasDefaultValue":false,"defaultValue":null,"_type":"System.String","key":"WeaponNameVariable","label":null,"summary":null,"hideLabel":false},{"hasDefaultValue":false,"defaultValue":null,"_type":"System.String","key":"WeaponLVLVariable","label":null,"summary":null,"hideLabel":false}],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":159.6493,"y":639.2546},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":163.0,"y":525.0},"guid":"a5f7f68c-256e-44df-ae90-0b2320e28aa9","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"11"},{"type":"System.String","value":{"$content":"Shuriken","$type":"System.String"},"defaultValues":{},"position":{"x":-72.0,"y":504.0},"guid":"0bfbab1e-a617-4754-b35f-d71af68073b4","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"14"},{"type":"System.String","value":{"$content":"ShurikenLVL","$type":"System.String"},"defaultValues":{},"position":{"x":-72.0,"y":612.0},"guid":"12c73600-1832-48f4-b4f3-8fc054684440","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"16"},{"sourceUnit":{"$ref":"14"},"sourceKey":"output","destinationUnit":{"$ref":"11"},"destinationKey":"WeaponNameVariable","guid":"f7e29dd6-4003-4920-b4d0-cad95c1c895a","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"16"},"sourceKey":"output","destinationUnit":{"$ref":"11"},"destinationKey":"WeaponLVLVariable","guid":"98a71dcd-0f17-4466-aee5-97ac71e73c34","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 6c7e2519454ce8c478b71576e766b1fe, type: 2}
