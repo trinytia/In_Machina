@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: LVLHeartOfGold
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-133.0,"y":48.0},"zoom":1.0,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"defaultValues":{},"position":{"x":-193.0,"y":-20.0},"guid":"66d8e6f5-eb67-484b-a8ec-a770e61768c7","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"9"},{"specifyFallback":false,"kind":"Application","defaultValues":{"name":{"$content":"HeartOfGoldLVL","$type":"System.String"}},"position":{"x":-461.0,"y":-12.0},"guid":"c9803d0d-d8c2-422c-9c5b-f68acfa40404","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"12"},{"sourceUnit":{"$ref":"12"},"sourceKey":"value","destinationUnit":{"$ref":"9"},"destinationKey":"Weapon/SkillLVL","guid":"e6da1875-0a3f-41c3-a43f-5724cefeb6d3","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 7e172608bd32b7c499375e50f47bec80, type: 2}
