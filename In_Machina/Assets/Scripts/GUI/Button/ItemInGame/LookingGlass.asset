@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: LookingGlass
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-52.0,"y":83.26411},"zoom":1.0,"elements":[{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"Click","$type":"System.String"}},"position":{"x":-389.0,"y":-164.0},"guid":"667e7c46-0eb8-4bc6-850b-bfd9db3bf96e","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"9"},{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"LookingGlassPrice","$type":"System.String"}},"position":{"x":-156.0,"y":192.0},"guid":"774ec633-d0c6-42d0-a1ff-bf6141fe3ee1","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"11"},{"kind":"Application","defaultValues":{"name":{"$content":"BlockNextHitCount","$type":"System.String"}},"position":{"x":-156.0,"y":-192.0},"guid":"68628498-bca8-4523-9428-1e7da3a4f821","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"13"},{"defaultValues":{"dividend":{"$content":1.0,"$type":"System.Single"},"divisor":{"$content":100.0,"$type":"System.Single"}},"position":{"x":-156.0,"y":72.0},"guid":"d9e649d0-33f7-41cd-8de7-c2ee2c4ca728","$version":"A","$type":"Unity.VisualScripting.ScalarDivide","$id":"15"},{"chainable":false,"member":{"name":"Round","parameterTypes":["System.Single"],"targetType":"UnityEngine.Mathf","targetTypeName":"UnityEngine.Mathf","$version":"A"},"defaultValues":{"%f":{"$content":0.0,"$type":"System.Single"}},"position":{"x":-156.0,"y":-48.0},"guid":"6d8dd666-021d-404e-8c63-637178a9aadb","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"17"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"13"},"destinationKey":"assign","guid":"23da7866-4586-4806-a42d-3b211c8667e9","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"value","destinationUnit":{"$ref":"15"},"destinationKey":"dividend","guid":"8fb33807-42a3-4eff-bce2-908afe8a1a79","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"quotient","destinationUnit":{"$ref":"17"},"destinationKey":"%f","guid":"8d60e272-0560-4023-afff-51d8c569d2bd","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"result","destinationUnit":{"$ref":"13"},"destinationKey":"input","guid":"343039e4-723d-4018-979f-f510f351a608","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

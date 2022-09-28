@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: GodsFavor
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-121.0,"y":-25.03909},"zoom":1.0,"elements":[{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"Click","$type":"System.String"}},"position":{"x":-389.0,"y":-164.0},"guid":"667e7c46-0eb8-4bc6-850b-bfd9db3bf96e","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"9"},{"kind":"Application","defaultValues":{"name":{"$content":"TrophyGoldMultiplyer","$type":"System.String"}},"position":{"x":-144.0,"y":-168.0},"guid":"705c5185-835c-4d64-8579-ae67fb1d5617","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"11"},{"type":"System.Single","value":{"$content":2.0,"$type":"System.Single"},"defaultValues":{},"position":{"x":-132.0,"y":-24.0},"guid":"9cc94167-fed3-4892-b908-71e631e9b77e","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"13"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"c924d57b-4042-4368-a0d7-effef1bbdfa3","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"output","destinationUnit":{"$ref":"11"},"destinationKey":"input","guid":"efdf79ba-32e9-4542-8979-a8eae47388cc","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

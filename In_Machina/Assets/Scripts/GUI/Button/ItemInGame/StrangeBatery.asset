@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: StrangeBatery
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-186.0,"y":-240.0391},"zoom":1.0,"elements":[{"argumentCount":0,"coroutine":false,"defaultValues":{"target":null,"name":{"$content":"Click","$type":"System.String"}},"position":{"x":-389.0,"y":-164.0},"guid":"667e7c46-0eb8-4bc6-850b-bfd9db3bf96e","$version":"A","$type":"Unity.VisualScripting.CustomEvent","$id":"9"},{"kind":"Application","defaultValues":{"name":{"$content":"ExpBonusMultiplierInGame","$type":"System.String"}},"position":{"x":-192.0,"y":-180.0},"guid":"bd098b02-1bab-400a-8d74-243e2feaebbf","$version":"A","$type":"Unity.VisualScripting.SetVariable","$id":"11"},{"type":"System.Single","value":{"$content":2.0,"$type":"System.Single"},"defaultValues":{},"position":{"x":-192.0,"y":-36.0},"guid":"01b72224-6154-4a4c-97a3-081ec4b4d050","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"13"},{"sourceUnit":{"$ref":"9"},"sourceKey":"trigger","destinationUnit":{"$ref":"11"},"destinationKey":"assign","guid":"ddb2ff5d-b1a6-41bc-b9ed-a81223239700","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"13"},"sourceKey":"output","destinationUnit":{"$ref":"11"},"destinationKey":"input","guid":"e0cb08ba-b065-479d-8b8b-47f828b68a18","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
