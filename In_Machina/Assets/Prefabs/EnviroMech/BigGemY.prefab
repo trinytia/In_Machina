@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: -7356269809705791176}
   - component: {fileID: -5566264937997882425}
   m_Layer: 0
-  m_Name: BigGemShrine
+  m_Name: BigGemY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
