@@ -53,9 +53,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Canvas/NPCsCanvas/InGameShopBarryDialogue.unity
     guid: 8077cfd283336c74ead34cecb81fb1e0
-  - enabled: 1
-    path: Assets/Scenes/Canvas/GUICanvas/InGameUI.unity
-    guid: e65e60b964bbdc34ca121247ec9205fc
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Canvas/NPCsCanvas/HubShopBarryDialogue.unity
     guid: 20ddad035bc887b408717d90143df170
