@@ -18,6 +18,7 @@ TagManager:
   - Spell
   - UIInGame
   - Weapon
+  - Canvas
   layers:
   - Default
   - TransparentFX
