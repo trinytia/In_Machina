@@ -65,4 +65,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Canvas/NPCsCanvas/NakedRunnerDialogue.unity
     guid: a0c85c7ab04d28b419ad12f7f89ad998
+  - enabled: 1
+    path: Assets/Scenes/Canvas/GUICanvas/PauseMenu.unity
+    guid: 89ffb17c7cbce85439dbd833f7658498
   m_configObjects: {}

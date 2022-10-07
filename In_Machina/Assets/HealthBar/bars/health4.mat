@@ -22,8 +22,8 @@ Material:
     m_TexEnvs:
     - _BublesTex:
         m_Texture: {fileID: 2800000, guid: cf6d687a2f8760f4180a080ffe87b968, type: 3}
-        m_Scale: {x: 0.9003766, y: 0.4}
-        m_Offset: {x: -163.75699, y: 0}
+        m_Scale: {x: 0.07495789, y: 0.4}
+        m_Offset: {x: -3.6453655, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
