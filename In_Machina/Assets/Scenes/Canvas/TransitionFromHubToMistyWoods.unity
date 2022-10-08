@@ -417,19 +417,17 @@ MonoBehaviour:
       you ever buy the key ! Ever.","I\u2019ve tried everything to save her. Everything
       but her heart\u2026 Even if she could take it, I know I can\u2019t.","I heard
       that massive amounts of gold are hidden deep in this forest. I doubt you stranger
-      need it more than we do.","I\u2019m sure you can make it. It\u2019s only your
-      [DeathCount] try. :)","I\u2019m so happy  we could continue to play like this
-      over the years. It\u2019s been difficult but your imagination was always bigger
-      than mine. Still, I do hope my story pleases you Lyn.","Mistakes are always
-      forgivable, if one has the courage to admit them. Sorry."],"$type":"System.Collections.Generic.List`1[[System.String,
+      need it more than we do.","I\u2019m so happy  we could continue to play like
+      this over the years. It\u2019s been difficult but your imagination was always
+      bigger than mine. Still, I do hope my story pleases you Lyn.","Mistakes are
+      always forgivable, if one has the courage to admit them. Sorry."],"$type":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"PlayerGameObject","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"PlayerGameObject","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1553308076}
     - {fileID: 148544397}
-    - {fileID: 0}
 --- !u!4 &731163696
 Transform:
   m_ObjectHideFlags: 0
