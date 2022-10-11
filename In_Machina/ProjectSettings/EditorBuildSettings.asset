@@ -77,4 +77,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Canvas/EMCanvas/GemStatBonus.unity
     guid: d48f8cbfd42e20d4bbb1a30aa8ba40b5
+  - enabled: 1
+    path: Assets/Scenes/Canvas/NPCsCanvas/LynInHubDialogue.unity
+    guid: 2442593e54dd43e48be9604e135e6c18
   m_configObjects: {}
