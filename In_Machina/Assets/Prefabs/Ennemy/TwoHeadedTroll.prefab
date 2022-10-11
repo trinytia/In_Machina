@@ -139,6 +139,7 @@ GameObject:
   - component: {fileID: 8816466425585352044}
   - component: {fileID: 8816466425585352055}
   - component: {fileID: 8816466425585352045}
+  - component: {fileID: 7494866503432681688}
   m_Layer: 7
   m_Name: TwoHeadedTroll
   m_TagString: Ennemy
@@ -331,3 +332,23 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 8ce5dc57bd8a7cf46a80fbf10c82bf5f, type: 2}
+--- !u!95 &7494866503432681688
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8816466425585352059}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6ef7190ca0a540b43a545e5fc604940f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

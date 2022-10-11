@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 1546584871697591085}
   - component: {fileID: 1546584871697591084}
   - component: {fileID: 1546584871697591080}
+  - component: {fileID: 7534173636565162368}
   m_Layer: 7
   m_Name: Cyclope
   m_TagString: Ennemy
@@ -201,6 +202,26 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 69f33e06d51d22b458c04d70a5733903, type: 2}
+--- !u!95 &7534173636565162368
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546584871697591083}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d3d67210d615a0c448b9374a2cc34959, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &3892684484690928890
 GameObject:
   m_ObjectHideFlags: 0
