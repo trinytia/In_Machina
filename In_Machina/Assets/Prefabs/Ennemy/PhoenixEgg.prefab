@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 4532437209112106054}
   - component: {fileID: 7957002177560252050}
   - component: {fileID: 7595330394242773690}
+  - component: {fileID: 3801477533195129563}
   m_Layer: 0
   m_Name: PhoenixEgg
   m_TagString: Ennemy
@@ -77,12 +78,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 30d914f088e2af1429698926d3695c7c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7715367adcfb6a04594b3b1dbdc0b966, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.74, y: 2.87}
+  m_Size: {x: 1.8285714, y: 1.8285714}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -137,8 +138,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.051893592, y: -0.098598}
-  m_Size: {x: 2.1276548, y: 2.2784126}
+  m_Offset: {x: -0.030871902, y: -0.23654053}
+  m_Size: {x: 0.71144664, y: 0.93577343}
   m_Direction: 0
 --- !u!58 &7595330394242773690
 CircleCollider2D:
@@ -153,6 +154,26 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.06, y: -0.1}
+  m_Offset: {x: 0, y: -0.1}
   serializedVersion: 2
   m_Radius: 1.4
+--- !u!95 &3801477533195129563
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7952319772344317701}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4d0a77fe98e543641bbdea58a6cd80d1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

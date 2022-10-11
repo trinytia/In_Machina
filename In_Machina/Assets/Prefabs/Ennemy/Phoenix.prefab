@@ -134,12 +134,13 @@ GameObject:
   m_Component:
   - component: {fileID: 8816466425585352053}
   - component: {fileID: 8816466425585352052}
-  - component: {fileID: -3228216906075409447}
   - component: {fileID: 7917663915082801718}
   - component: {fileID: 8816466425585352044}
   - component: {fileID: 8816466425585352055}
   - component: {fileID: 8816466425585352045}
   - component: {fileID: -8398596859132913456}
+  - component: {fileID: 6075883601076565699}
+  - component: {fileID: 6346371869669193143}
   m_Layer: 7
   m_Name: Phoenix
   m_TagString: Ennemy
@@ -207,7 +208,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 06a287cc97cb64df8a11af10f2352365, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4d0e97f2d715e0d44a6005462883b892, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -218,22 +219,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!70 &-3228216906075409447
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8816466425585352059}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.011133194, y: -0.16737646}
-  m_Size: {x: 0.63360214, y: 1.2186083}
-  m_Direction: 0
 --- !u!61 &7917663915082801718
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -247,18 +232,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.018069744, y: -0.17403138}
+  m_Offset: {x: -0.028057098, y: 0.27186066}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.9375, y: 2.1875}
+    oldSize: {x: 4, y: 4}
     newSize: {x: 1.9375, y: 2.1875}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.6325102, y: 1.2183716}
+  m_Size: {x: 2.8158436, y: 1.5258833}
   m_EdgeRadius: 0
 --- !u!50 &8816466425585352044
 Rigidbody2D:
@@ -349,3 +334,62 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!60 &6075883601076565699
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8816466425585352059}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4, y: 4}
+    newSize: {x: 1.9375, y: 2.1875}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.43671656, y: -1.3371688}
+      - {x: -0.026695669, y: -1.5544262}
+      - {x: 0.356, y: -1.4080001}
+      - {x: 0.46472347, y: -1.3245637}
+      - {x: 0.31452394, y: -0.7029451}
+      - {x: 0.56422585, y: -0.5554202}
+      - {x: 0.4441753, y: 0.13518503}
+      - {x: 1.9838119, y: 0.30753547}
+      - {x: 1.419158, y: 0.9542655}
+      - {x: 0.3350497, y: 0.87213886}
+      - {x: -0.0062276125, y: 1.1539655}
+      - {x: -0.32225472, y: 0.92318857}
+      - {x: -1.3980161, y: 0.9912297}
+      - {x: -1.9419693, y: 0.2120418}
+      - {x: -0.43550268, y: 0.11478436}
+      - {x: -0.362694, y: -0.19402432}
+      - {x: -0.5679514, y: -0.52979827}
+      - {x: -0.3023792, y: -0.70476353}
+--- !u!70 &6346371869669193143
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8816466425585352059}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 0.0001, y: 0.0001}
+  m_Direction: 0
