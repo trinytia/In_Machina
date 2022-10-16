@@ -162,7 +162,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: a9288dcde613b9e46840776459733bd0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -537,14 +537,31 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"Image","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CurrentPage","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ListOfImage","value":{"$content":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],"$type":"System.Collections.Generic.List`1[[UnityEngine.Sprite,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ListOfImage","value":{"$content":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17],"$type":"System.Collections.Generic.List`1[[UnityEngine.Sprite,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Sprite,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"SoundManager","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Canvas","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"SoundManager","value":{"$content":18,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Canvas","value":{"$content":19,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 731912509}
+    - {fileID: 21300000, guid: a9288dcde613b9e46840776459733bd0, type: 3}
+    - {fileID: 21300000, guid: 990c6890b5b86cd47a7d1727819327e8, type: 3}
+    - {fileID: 21300000, guid: f26f5f133631cd944817404124a27aee, type: 3}
+    - {fileID: 21300000, guid: d42c7a2fba83d3d459727adaebe9c784, type: 3}
+    - {fileID: 21300000, guid: 8f9a5e1987bd3d6418a882c0dbd7a2f8, type: 3}
+    - {fileID: 21300000, guid: 012a369d7549fff42acb8038a54a5b04, type: 3}
+    - {fileID: 21300000, guid: 7a0cc594ecaae2f49bca2efe2277ffe9, type: 3}
+    - {fileID: 21300000, guid: 92c54420a6242194abfda4144b82109f, type: 3}
+    - {fileID: 21300000, guid: 23c194a1da58c154f88f5cc349b414b2, type: 3}
+    - {fileID: 21300000, guid: 7be09eb486e66c048b5f7e194a374772, type: 3}
+    - {fileID: 21300000, guid: 9dcc698cad5d007499a24b30c8fcea7d, type: 3}
+    - {fileID: 21300000, guid: 721aa7ad188b3e9468c65100f01cfe39, type: 3}
+    - {fileID: 21300000, guid: cbc0d7398511cf941b6859ddc0ff894c, type: 3}
+    - {fileID: 21300000, guid: 8375e44e4b50aa544ba200ff33cfa231, type: 3}
+    - {fileID: 21300000, guid: 981fe9b377609d64a95d23857f3258ea, type: 3}
+    - {fileID: 21300000, guid: 4c764139cc8fd5647a4e293739ea7cd1, type: 3}
+    - {fileID: 21300000, guid: d305cd4891ff5c34e8a21f0c0bba15f5, type: 3}
     - {fileID: 1021179220}
     - {fileID: 1966782872}
 --- !u!4 &1792730550
