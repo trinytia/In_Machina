@@ -4349,17 +4349,17 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CanvasFirstChoice","value":{"$content":20,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CanvasPU","value":{"$content":21,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CanvasEquip","value":{"$content":22,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ListOfPU","value":{"$content":[23,24,25,26,27,28,29],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Credit","value":{"$content":23,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"BotomlessFlask","value":{"$content":24,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"KobanCatkin","value":{"$content":25,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CristalBall","value":{"$content":26,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ListOfEquip","value":{"$content":[27,28,29,30,31,32,33,34,35,36,37,38],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ListOfEquip","value":{"$content":[30,31,32,33,34,35,36,37,38,39,40,41],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ListOfPU","value":{"$content":[39,40,41,42,43,44,45],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Credit","value":{"$content":42,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"BotomlessFlask","value":{"$content":43,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"KobanCatkin","value":{"$content":44,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CristalBall","value":{"$content":45,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1873567608}
     - {fileID: 1426423561}
@@ -4384,29 +4384,29 @@ MonoBehaviour:
     - {fileID: 1889757955}
     - {fileID: 977092429}
     - {fileID: 1038559883}
-    - {fileID: 1463763171}
-    - {fileID: 711046160}
-    - {fileID: 988344834}
-    - {fileID: 142024523}
-    - {fileID: 38888973}
-    - {fileID: 966435164}
-    - {fileID: 1895709917}
+    - {fileID: 111288370}
+    - {fileID: 794146119}
+    - {fileID: 2039382628}
+    - {fileID: 152270291}
+    - {fileID: 1503676249}
     - {fileID: 1312331032}
     - {fileID: 1384617020}
-    - {fileID: 1503676249}
+    - {fileID: 152270291}
+    - {fileID: 2039382628}
+    - {fileID: 794146119}
+    - {fileID: 1147643487}
     - {fileID: 1822998450}
     - {fileID: 1440212924}
     - {fileID: 1310087988}
     - {fileID: 1321899630}
-    - {fileID: 1147643487}
     - {fileID: 111288370}
-    - {fileID: 794146119}
-    - {fileID: 2039382628}
-    - {fileID: 152270291}
-    - {fileID: 111288370}
-    - {fileID: 794146119}
-    - {fileID: 2039382628}
-    - {fileID: 152270291}
+    - {fileID: 966435164}
+    - {fileID: 38888973}
+    - {fileID: 1463763171}
+    - {fileID: 988344834}
+    - {fileID: 711046160}
+    - {fileID: 142024523}
+    - {fileID: 1895709917}
 --- !u!4 &749340959
 Transform:
   m_ObjectHideFlags: 0
