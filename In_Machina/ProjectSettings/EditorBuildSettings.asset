@@ -36,6 +36,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Canvas/GUICanvas/LevelUpPopUp.unity
     guid: f19c8638ae26c264388ce823fb800054
   - enabled: 1
+    path: Assets/Scenes/Canvas/GUICanvas/DeathResume.unity
+    guid: 062217fc15b5d034a9b6ebdb70a9215a
+  - enabled: 1
     path: Assets/Scenes/Canvas/GUICanvas/QuitGamePopUp.unity
     guid: e9437d93672adcd4cab6873fd7b5618c
   - enabled: 1
@@ -44,6 +47,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Canvas/NPCsCanvas/LynFound.unity
     guid: dd5cb770fb6299d4ab719c376e3f9056
+  - enabled: 1
+    path: Assets/Scenes/Canvas/NPCsCanvas/LynInHubDialogue.unity
+    guid: 2442593e54dd43e48be9604e135e6c18
   - enabled: 1
     path: Assets/Scenes/Canvas/NPCsCanvas/WierdBarryDialogue.unity
     guid: 9d87fc0bff1db164fbe00a518e3d9c2b
@@ -73,11 +79,8 @@ EditorBuildSettings:
     guid: ef3677f6dcba3104e93d9532337ec3f3
   - enabled: 1
     path: Assets/Scenes/Canvas/EMCanvas/GemStatBonus.unity
-    guid: d48f8cbfd42e20d4bbb1a30aa8ba40b5
-  - enabled: 1
-    path: Assets/Scenes/Canvas/NPCsCanvas/LynInHubDialogue.unity
-    guid: 2442593e54dd43e48be9604e135e6c18
-  - enabled: 1
-    path: Assets/Scenes/Canvas/GUICanvas/DeathResume.unity
-    guid: 062217fc15b5d034a9b6ebdb70a9215a
+    guid: dc3b8df1ea322854a8dcdc7ea1c8058b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
