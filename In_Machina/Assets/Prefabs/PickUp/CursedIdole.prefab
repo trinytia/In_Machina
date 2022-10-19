@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: -5182639492463216600}
   - component: {fileID: 1088344849}
   - component: {fileID: 6143791592206119282}
+  - component: {fileID: -7391447090012467280}
   m_Layer: 0
   m_Name: CursedIdole
   m_TagString: Untagged
@@ -234,6 +235,26 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!95 &-7391447090012467280
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 170292257775510267}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 955aed7627e0ea042835d4ddcb96f911, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &6776579304115443478
 PrefabInstance:
   m_ObjectHideFlags: 0
