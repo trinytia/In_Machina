@@ -135,11 +135,11 @@ GameObject:
   - component: {fileID: 8816466425585352053}
   - component: {fileID: 8816466425585352052}
   - component: {fileID: -3228216906075409447}
-  - component: {fileID: 7917663915082801718}
   - component: {fileID: 8816466425585352044}
   - component: {fileID: 8816466425585352055}
   - component: {fileID: 8816466425585352045}
   - component: {fileID: -3035633129913802670}
+  - component: {fileID: 3143077561904138294}
   m_Layer: 7
   m_Name: Manticore
   m_TagString: Ennemy
@@ -231,35 +231,9 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0071713924, y: -0.0025126934}
-  m_Size: {x: 1.9515381, y: 2.8718557}
+  m_Offset: {x: 0.00791055, y: -0.45613158}
+  m_Size: {x: 0.99634016, y: 2.49209}
   m_Direction: 0
---- !u!61 &7917663915082801718
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8816466425585352059}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.0023889542, y: 0.011002719}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 4.266667, y: 4.266667}
-    newSize: {x: 1.9375, y: 2.1875}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 2.093964, y: 2.9934416}
-  m_EdgeRadius: 0
 --- !u!50 &8816466425585352044
 Rigidbody2D:
   serializedVersion: 4
@@ -352,3 +326,36 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!60 &3143077561904138294
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8816466425585352059}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.266667, y: 4.266667}
+    newSize: {x: 1.9375, y: 2.1875}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.58233356, y: -1.7219821}
+      - {x: -1.1889579, y: -0.978394}
+      - {x: -0.95393866, y: 0.7830498}
+      - {x: -0.3642226, y: 1.600467}
+      - {x: 0.4010679, y: 1.6156822}
+      - {x: 0.9861989, y: 0.84128034}
+      - {x: 1.1595385, y: -0.9491288}
+      - {x: 0.6039026, y: -1.7078791}
