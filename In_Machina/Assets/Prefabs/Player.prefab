@@ -1112,13 +1112,13 @@ GameObject:
   - component: {fileID: 4866880930097477971}
   - component: {fileID: 7486344536303827469}
   - component: {fileID: 775876413572274009}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HeartBeat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &6570891256010971692
 Transform:
   m_ObjectHideFlags: 0
