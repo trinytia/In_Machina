@@ -20,6 +20,7 @@ TagManager:
   - Weapon
   - Canvas
   - Runner
+  - Panel
   layers:
   - Default
   - TransparentFX
