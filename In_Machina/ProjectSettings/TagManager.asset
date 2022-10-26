@@ -21,6 +21,7 @@ TagManager:
   - Canvas
   - Runner
   - Panel
+  - TrophyPrice
   layers:
   - Default
   - TransparentFX
