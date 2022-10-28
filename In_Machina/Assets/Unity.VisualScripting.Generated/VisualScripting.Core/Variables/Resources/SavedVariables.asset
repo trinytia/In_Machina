@@ -69,7 +69,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Credit","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 21300000, guid: a9288dcde613b9e46840776459733bd0, type: 3}
-    - {fileID: 21300000, guid: cbc0d7398511cf941b6859ddc0ff894c, type: 3}
-    - {fileID: 21300000, guid: a9288dcde613b9e46840776459733bd0, type: 3}
-    - {fileID: 21300000, guid: cbc0d7398511cf941b6859ddc0ff894c, type: 3}
+    - {fileID: 21300000, guid: de01e29e30fab7f4d8819f750e9e0d2d, type: 3}
+    - {fileID: 21300000, guid: 990c6890b5b86cd47a7d1727819327e8, type: 3}
+    - {fileID: 21300000, guid: de01e29e30fab7f4d8819f750e9e0d2d, type: 3}
+    - {fileID: 21300000, guid: 990c6890b5b86cd47a7d1727819327e8, type: 3}

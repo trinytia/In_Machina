@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 7957002177560252050}
   - component: {fileID: 7595330394242773690}
   - component: {fileID: 3801477533195129563}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PhoenixEgg
   m_TagString: Ennemy
   m_Icon: {fileID: 0}
