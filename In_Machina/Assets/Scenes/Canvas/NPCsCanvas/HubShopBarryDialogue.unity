@@ -3505,6 +3505,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1115380716}
     m_Modifications:
+    - target: {fileID: 330247519854387623, guid: 281c1c4660926284c8d7abcd278016c4, type: 3}
+      propertyPath: m_margin.x
+      value: 33.13624
+      objectReference: {fileID: 0}
     - target: {fileID: 330247520426785746, guid: 281c1c4660926284c8d7abcd278016c4, type: 3}
       propertyPath: m_Name
       value: BotomlessFlask
