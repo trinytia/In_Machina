@@ -22,6 +22,8 @@ TagManager:
   - Runner
   - Panel
   - TrophyPrice
+  - FireBallBoss
+  - FireSpreadBoss
   layers:
   - Default
   - TransparentFX
