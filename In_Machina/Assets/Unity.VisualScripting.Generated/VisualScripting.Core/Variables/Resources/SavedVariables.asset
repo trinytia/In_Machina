@@ -28,10 +28,10 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ListOfEquipName","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ListOfPageImage","value":{"$content":[0,1],"$type":"System.Collections.Generic.List`1[[UnityEngine.Sprite,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ListOfPageImage","value":{"$content":[0],"$type":"System.Collections.Generic.List`1[[UnityEngine.Sprite,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Sprite,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ListOfPageAndDay","value":{"$content":[{"Key":{"$content":2,"$type":"UnityEngine.Object"},"Value":{"$content":"1","$type":"System.String"}},{"Key":{"$content":3,"$type":"UnityEngine.Object"},"Value":{"$content":"1","$type":"System.String"}}],"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ListOfPageAndDay","value":{"$content":[{"Key":{"$content":1,"$type":"UnityEngine.Object"},"Value":{"$content":"1","$type":"System.String"}}],"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
       Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CharacterSelected","value":{"$content":"JaxGalente","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"PickUpBought","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
@@ -72,6 +72,4 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 21300000, guid: de01e29e30fab7f4d8819f750e9e0d2d, type: 3}
-    - {fileID: 21300000, guid: 990c6890b5b86cd47a7d1727819327e8, type: 3}
     - {fileID: 21300000, guid: de01e29e30fab7f4d8819f750e9e0d2d, type: 3}
-    - {fileID: 21300000, guid: 990c6890b5b86cd47a7d1727819327e8, type: 3}
